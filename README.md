@@ -1,1 +1,2 @@
-# dataiku_projects
+# Dataiku projects
+Delet after use.
